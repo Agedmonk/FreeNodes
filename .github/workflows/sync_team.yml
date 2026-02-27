@@ -1,4 +1,4 @@
-name: 同步FreeNodes项目并推送特定文件到team仓库
+name: 🔄 同步FreeNodes项目并推送特定文件到team仓库
 
 on:
   schedule:
